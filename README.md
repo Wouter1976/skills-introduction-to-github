@@ -2,7 +2,7 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-Yay **Wouter1976** you finished the exercise! Nice work :tada:
+Yay **Wouter1976** you finished the exercise TEST! Nice work :tada:
 
 If you would like to retrace your steps, you can always revisit the exercise.
 
